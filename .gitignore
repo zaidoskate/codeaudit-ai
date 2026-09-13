@@ -30,3 +30,14 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+# Node.js y Next.js
+node_modules/
+.next/
+out/
+build/
+.env*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
